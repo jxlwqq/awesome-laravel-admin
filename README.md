@@ -56,6 +56,7 @@ Laravel-admin 资源精选列表。
 * [wangEditor](https://github.com/laravel-admin-extensions/wangEditor) - wangEditor 富文本编辑器
 * [simplemde](https://github.com/laravel-admin-extensions/simplemde) - SimpleMDE Markdown 编辑器
 * [china-distpicker](https://github.com/laravel-admin-extensions/china-distpicker) - 基于 Distpicker 的中国省市区三级联动选择组件
+* [star-rating](https://github.com/laravel-admin-extensions/star-rating) - 基于 BootStrapStarRating 的 Field 组件
 
 ### 命令类扩展包
 
