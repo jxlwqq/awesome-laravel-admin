@@ -10,8 +10,8 @@ Laravel-admin 资源精选列表。
 * [官方](#官方)
 * [扩展包](#扩展包)
     * [工具类扩展包](#工具类扩展包)
-    * [Field类扩展包](#Field类扩展包)
-    * [Command类扩展包](#Command类扩展包)
+    * [字段类扩展包](#字段类扩展包)
+    * [命令类扩展包](#命令类扩展包)
     * [样式类扩展包](#样式类扩展包)
 * [代码片段](#代码片段)
 * [Idea](#idea)
@@ -43,7 +43,7 @@ Laravel-admin 资源精选列表。
 * [translation](https://github.com/laravel-admin-extensions/translation)
 * [messages](https://github.com/laravel-admin-extensions/messages)
 
-### Field类扩展包
+### 字段类扩展包
 
 * [code-mirror](https://github.com/laravel-admin-extensions/code-mirror) - 基于 CodeMirror 的语言编辑器基础包
     * [clike-editor](https://github.com/laravel-admin-extensions/clike-editor) - 类 C 语言编辑器
@@ -57,8 +57,9 @@ Laravel-admin 资源精选列表。
 * [simplemde](https://github.com/laravel-admin-extensions/simplemde) - SimpleMDE Markdown 编辑器
 * [china-distpicker](https://github.com/laravel-admin-extensions/china-distpicker) - 基于 Distpicker 的中国省市区三级联动选择组件
 
-### Command类扩展包
+### 命令类扩展包
 
+期待你的 PR。
 
 ### 样式类扩展包
 
