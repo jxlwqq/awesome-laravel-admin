@@ -85,7 +85,7 @@ Laravel-admin 资源精选列表。
 
 ## 文章及教程
 
-期待你的 PR。
+[开发扩展教程](http://laravel-admin.org/docs/#/zh/extension-development)
 
 ## 视频
 
