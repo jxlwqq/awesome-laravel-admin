@@ -1,117 +1,121 @@
 # Awesome Laravel-admin [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Laravel-admin 资源精选列表。
+Curated list of Laravel-admin resources.
 
-## 贡献
+[中文文档](README-CN.md)
 
-如果你拥有或者找到了一些能让 Laravel-admin 变得更棒的资源，欢迎提交 PR。
 
-## 目录
-* [官方](#官方)
-* [扩展包](#扩展包)
-    * [工具类扩展包](#工具类扩展包)
-    * [字段类扩展包](#字段类扩展包)
-    * [网格类扩展包](#网格类扩展包)
-    * [命令类扩展包](#命令类扩展包)
-    * [样式类扩展包](#样式类扩展包)
-* [代码片段](#代码片段)
-* [Idea](#idea)
-* [文章及教程](#文章及教程)
-* [视频](#视频)
-* [其他](#其他)
-* [项目](#项目)
+## Contribution
 
-## 官方
-* [Laravel-admin 仓库](https://github.com/z-song/laravel-admin)
-* [Laravel-admin 官网](http://laravel-admin.org)
-* [Laravel-admin 文档](http://laravel-admin.org/docs)
-* [Laravel-admin 演示](http://demo.laravel-admin.org)
+If you have or found something that make Laravel-admin more awesome, please submit a PR and add it to the list. Thank you guys.
 
-## 扩展包
+## Table of Contents
 
-### 工具类扩展包
+* [Essentials](#essentials)
+* [Extensions](#extensions)
+    * [Tool](#tool)
+    * [Field](#field)
+    * [Grid](#grid)
+    * [Command](#command)
+    * [UI](#ui)
+* [Gists](#gists)
+* [Ideas](#ideas)
+* [Articles and Tutorials](#articles-and-tutorials)
+* [Videos](#videos)
+* [Others](#others)
+* [Sites](#sites)
 
-* [helpers](https://github.com/laravel-admin-extensions/helpers) - 面向开发人员的帮助工具，包含`脚手架`，`数据库命令行`、`artisan 命令行`以及`路由列表` 4 个基础功能
-* [config](https://github.com/laravel-admin-extensions/config) - 配置管理工具
-* [reporter](https://github.com/laravel-admin-extensions/reporter) - 异常信息存储及查看工具
-* [media-manager](https://github.com/laravel-admin-extensions/media-manager) - 本地文件管理工具
-* [api-tester](https://github.com/laravel-admin-extensions/api-tester) - API 测试工具
-* [scheduling](https://github.com/laravel-admin-extensions/scheduling) - Laravel计划任务管理工具
-* [redis-manager](https://github.com/laravel-admin-extensions/redis-manager) Redis 管理工具
-* [log-viewer](https://github.com/laravel-admin-extensions/log-viewer) - 日志查看工具
-* [backup](https://github.com/laravel-admin-extensions/backup) - 数据备份工具
-* [phpinfo](https://github.com/laravel-admin-extensions/phpinfo) - phpinfo 信息查看工具
+## Essentials
+* [Laravel-admin Repo](https://github.com/z-song/laravel-admin)
+* [Laravel-admin Website](http://laravel-admin.org)
+* [Laravel-admin Doc](http://laravel-admin.org/docs)
+* [Laravel-admin Demo](http://demo.laravel-admin.org)
+
+## Extensions
+
+### Tool
+
+* [helpers](https://github.com/laravel-admin-extensions/helpers) - Several tools to help you in development, providing `scaffolding`, `database command line`, `artisan command line` and `Route list` four tools
+* [config](https://github.com/laravel-admin-extensions/config) - Config manager for laravel-admin
+* [reporter](https://github.com/laravel-admin-extensions/reporter) - This tool stores the exception information into the database and provides a developer-friendly web interface to view the exception information.
+* [media-manager](https://github.com/laravel-admin-extensions/media-manager) - Provides a web interface to manage local files
+* [api-tester](https://github.com/laravel-admin-extensions/api-tester) - API tester for laravel-admin
+* [scheduling](https://github.com/laravel-admin-extensions/scheduling) - Scheduling task manager for laravel-admin
+* [redis-manager](https://github.com/laravel-admin-extensions/redis-manager) Redis manager for laravel-admin
+* [log-viewer](https://github.com/laravel-admin-extensions/log-viewer) - Log viewer for laravel
+* [backup](https://github.com/laravel-admin-extensions/backup) - An admin interface for managing backups
+* [phpinfo](https://github.com/laravel-admin-extensions/phpinfo) - Outputs information about PHP's configuration in laravel-admin
 * [translation](https://github.com/laravel-admin-extensions/translation)
 * [messages](https://github.com/laravel-admin-extensions/messages)
 
-### 字段类扩展包
+### Field
 
-* 代码编辑器
-   * [code-mirror](https://github.com/laravel-admin-extensions/code-mirror) - 基于 CodeMirror 的语言编辑器基础包
-       * [clike-editor](https://github.com/laravel-admin-extensions/clike-editor) - 类 C 语言编辑器
-       * [python-editor](https://github.com/laravel-admin-extensions/python-editor) - Python 语言编辑器
-       * [php-editor](https://github.com/laravel-admin-extensions/php-editor) - PHP 语言编辑器
-       * [js-editor](https://github.com/laravel-admin-extensions/js-editor) - JavaScript 语言编辑器
-       * [css-editor](https://github.com/laravel-admin-extensions/css-editor) - CSS 语言编辑器
-   * [json-editor](https://github.com/laravel-admin-extensions/json-editor) - JSON 数据编辑器
+* Code Editor
+   * [code-mirror](https://github.com/laravel-admin-extensions/code-mirror) - Code editor based on code-mirror
+       * [clike-editor](https://github.com/laravel-admin-extensions/clike-editor) - Several c-lick language editor
+       * [python-editor](https://github.com/laravel-admin-extensions/python-editor) - Python editor
+       * [php-editor](https://github.com/laravel-admin-extensions/php-editor) - PHP editor
+       * [js-editor](https://github.com/laravel-admin-extensions/js-editor) - JavaScript editor
+       * [css-editor](https://github.com/laravel-admin-extensions/css-editor) - CSS editor
+   * [json-editor](https://github.com/laravel-admin-extensions/json-editor) - JSON Editor for Laravel-admin
    
-* 富文本编辑器
-   * [simplemde](https://github.com/laravel-admin-extensions/simplemde) - Summernote 富文本编辑器
-   * [wangEditor](https://github.com/laravel-admin-extensions/wangEditor) - wangEditor 富文本编辑器
-   * [simplemde](https://github.com/laravel-admin-extensions/simplemde) - SimpleMDE Markdown 编辑器
+* WYSIWYG Editor
+   * [simplemde](https://github.com/laravel-admin-extensions/simplemde) - Super Simple WYSIWYG editor
+   * [wangEditor](https://github.com/laravel-admin-extensions/wangEditor) - A lightweight WYSIWYG editor
+   * [simplemde](https://github.com/laravel-admin-extensions/simplemde) - Markdown Editor
    
-* [china-distpicker](https://github.com/laravel-admin-extensions/china-distpicker) - 基于 Distpicker 的中国省市区三级联动选择组件
-* [star-rating](https://github.com/laravel-admin-extensions/star-rating) - 基于 BootStrapStarRating 的 Field 组件
+* [china-distpicker](https://github.com/laravel-admin-extensions/china-distpicker) - Distpicker extension for laravel-admin
+* [star-rating](https://github.com/laravel-admin-extensions/star-rating) - Star Rating extension for laravel-admin
 
 
-### 网格类扩展包
+### Grid
 
-* [grid-lightbox](https://github.com/laravel-admin-extensions/grid-lightbox) - 为 Grid 加上 lightBox 展示功能的组件
+* [grid-lightbox](https://github.com/laravel-admin-extensions/grid-lightbox) - Turn your grid into a lightbox & gallery
 
-### 命令类扩展包
+### Command
 
-期待你的 PR。
+Add yours to the list, make a PR!
 
-### 样式类扩展包
+### UI
 
-* [material-ui](https://github.com/jxlwqq/material-ui) - 基于谷歌 Material Design 设计风格的 UI 扩展包
+* [material-ui](https://github.com/jxlwqq/material-ui) - Material-UI is a Material Design extension, using Bootstrap Material Design
 
-## 代码片段
+## Gists
 
-存放在 GitHub Gist 上的代码片段：
+Code, Notes and Snippets:
 
-期待你的 PR。
+Add yours to the list, make a PR!
 
-## Idea
+## Ideas
 
-有一些能让 Laravel-admin 变得更棒的想法或思考，但出于一些原因，暂时没有实现：
+Several ideas or thoughts that can make Laravel-admin more awesome, but for some reason it's not implemented:
 
-* 微信公众号管理工具
-* 地图工具
-* 图表工具
-* 多后台
-* 系统监控工具
-* 日历工具
-* 上线部署工具
+* Manager tool of WeChat Official Accounts
+* Map toll
+* Charts tool
+* MultiAdmin
+* Monitor tool
+* Calendar tool
+* Deployment tool
 
-期待你的 PR。
+Add yours to the list, make a PR!
 
-## 文章及教程
+## Articles and Tutorials
 
-[开发扩展教程](http://laravel-admin.org/docs/#/zh/extension-development)
+[Develop Extensions: Getting Started Tutorial](http://laravel-admin.org/docs/#/en/extension-development)
 
-## 视频
+## Videos
 
-期待你的 PR。
+Add yours to the list, make a PR!
 
-## 其他
+## Others
 
-其他杂项。
 
-期待你的 PR。
+Add yours to the list, make a PR!
 
-## 项目
 
-正在使用 Laravel-admin 的项目或网站：
+## Sites
 
-* [华大科技](http://bgitechsolutions.com/)
+Sites Running with Laravel-admin:
+
+Add yours to the list, make a PR!
