@@ -45,16 +45,20 @@ Laravel-admin 资源精选列表。
 
 ### 字段类扩展包
 
-* [code-mirror](https://github.com/laravel-admin-extensions/code-mirror) - 基于 CodeMirror 的语言编辑器基础包
-    * [clike-editor](https://github.com/laravel-admin-extensions/clike-editor) - 类 C 语言编辑器
-    * [python-editor](https://github.com/laravel-admin-extensions/python-editor) - Python 语言编辑器
-    * [php-editor](https://github.com/laravel-admin-extensions/php-editor) - PHP 语言编辑器
-    * [js-editor](https://github.com/laravel-admin-extensions/js-editor) - JavaScript 语言编辑器
-    * [css-editor](https://github.com/laravel-admin-extensions/css-editor) - CSS 语言编辑器
-
-* [simplemde](https://github.com/laravel-admin-extensions/simplemde) - Summernote 富文本编辑器
-* [wangEditor](https://github.com/laravel-admin-extensions/wangEditor) - wangEditor 富文本编辑器
-* [simplemde](https://github.com/laravel-admin-extensions/simplemde) - SimpleMDE Markdown 编辑器
+* 代码编辑器
+   * [code-mirror](https://github.com/laravel-admin-extensions/code-mirror) - 基于 CodeMirror 的语言编辑器基础包
+       * [clike-editor](https://github.com/laravel-admin-extensions/clike-editor) - 类 C 语言编辑器
+       * [python-editor](https://github.com/laravel-admin-extensions/python-editor) - Python 语言编辑器
+       * [php-editor](https://github.com/laravel-admin-extensions/php-editor) - PHP 语言编辑器
+       * [js-editor](https://github.com/laravel-admin-extensions/js-editor) - JavaScript 语言编辑器
+       * [css-editor](https://github.com/laravel-admin-extensions/css-editor) - CSS 语言编辑器
+   * [json-editor](https://github.com/laravel-admin-extensions/json-editor) - JSON 数据编辑器
+   
+* 富文本编辑器
+   * [simplemde](https://github.com/laravel-admin-extensions/simplemde) - Summernote 富文本编辑器
+   * [wangEditor](https://github.com/laravel-admin-extensions/wangEditor) - wangEditor 富文本编辑器
+   * [simplemde](https://github.com/laravel-admin-extensions/simplemde) - SimpleMDE Markdown 编辑器
+   
 * [china-distpicker](https://github.com/laravel-admin-extensions/china-distpicker) - 基于 Distpicker 的中国省市区三级联动选择组件
 * [star-rating](https://github.com/laravel-admin-extensions/star-rating) - 基于 BootStrapStarRating 的 Field 组件
 
