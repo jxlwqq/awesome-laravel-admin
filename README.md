@@ -11,7 +11,7 @@ Laravel-admin 资源精选列表。
 * [扩展包](#扩展包)
     * [工具类扩展包](#工具类扩展包)
     * [字段类扩展包](#字段类扩展包)
-    * [Grid类扩展包](#Grid类扩展包)
+    * [网格类扩展包](#网格类扩展包)
     * [命令类扩展包](#命令类扩展包)
     * [样式类扩展包](#样式类扩展包)
 * [代码片段](#代码片段)
@@ -64,7 +64,7 @@ Laravel-admin 资源精选列表。
 * [star-rating](https://github.com/laravel-admin-extensions/star-rating) - 基于 BootStrapStarRating 的 Field 组件
 
 
-### Grid类扩展包
+### 网格类扩展包
 
 * [grid-lightbox](https://github.com/laravel-admin-extensions/grid-lightbox) - 为 Grid 加上 lightBox 展示功能的组件
 
