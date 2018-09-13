@@ -7,7 +7,7 @@ Curated list of Laravel-admin resources.
 
 ## Contribution
 
-If you have or found something that make Laravel-admin more awesome, please submit a PR and add it to the list. Thank you guys.
+If you made or found something that make Laravel-admin more awesome, please submit a PR and add it to the list. Thank you guys.
 
 ## Table of Contents
 
