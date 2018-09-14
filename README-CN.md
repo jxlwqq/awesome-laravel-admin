@@ -64,6 +64,7 @@ Laravel-admin 资源精选列表。
    
 * [china-distpicker](https://github.com/laravel-admin-extensions/china-distpicker) - 基于 Distpicker 的中国省市区三级联动选择组件
 * [star-rating](https://github.com/laravel-admin-extensions/star-rating) - 基于 BootStrapStarRating 的 Field 组件
+* [daterangepicker](https://github.com/laravel-admin-extensions/daterangepicker) - 基于 daterangepicker 的 Field 组件
 
 
 ### 网格类扩展包

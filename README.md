@@ -66,7 +66,7 @@ If you have or found something that make Laravel-admin more awesome, please subm
    
 * [china-distpicker](https://github.com/laravel-admin-extensions/china-distpicker) - Distpicker extension for laravel-admin
 * [star-rating](https://github.com/laravel-admin-extensions/star-rating) - Star Rating extension for laravel-admin
-
+* [daterangepicker](https://github.com/laravel-admin-extensions/daterangepicker) - Integrates daterangepicker into laravel-admin
 
 ### Grid
 
