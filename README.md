@@ -7,7 +7,7 @@ Curated list of Laravel-admin resources.
 
 ## Contribution
 
-If you have or found something that make Laravel-admin more awesome, please submit a PR and add it to the list. Thank you guys.
+If you created or found something that make Laravel-admin more awesome, please submit a PR and add it to the list. Thank you guys.
 
 ## Table of Contents
 
@@ -91,7 +91,7 @@ Add yours to the list, make a PR!
 Several ideas or thoughts that can make Laravel-admin more awesome, but for some reason it's not implemented:
 
 * Manager tool of WeChat Official Accounts
-* Map toll
+* Map tool
 * Charts tool
 * MultiAdmin
 * Monitor tool
