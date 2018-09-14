@@ -1,8 +1,8 @@
 # Awesome Laravel-admin [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Curated list of Laravel-admin resources.
+A curated list of Laravel-admin resources.
 
-[中文文档](README-CN.md)
+[中文版本](README-CN.md)
 
 
 ## Contribution
@@ -28,7 +28,7 @@ If you created or found something that make Laravel-admin more awesome, please s
 ## Essentials
 * [Laravel-admin Repo](https://github.com/z-song/laravel-admin)
 * [Laravel-admin Website](http://laravel-admin.org)
-* [Laravel-admin Doc](http://laravel-admin.org/docs)
+* [Laravel-admin Docs](http://laravel-admin.org/docs)
 * [Laravel-admin Demo](http://demo.laravel-admin.org)
 
 ## Extensions
