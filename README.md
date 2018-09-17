@@ -2,7 +2,7 @@
 
 A curated list of Laravel-admin resources.
 
-[中文版本](README-CN.md)
+[中文](README-CN.md)
 
 
 ## Contribution
