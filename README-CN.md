@@ -12,6 +12,7 @@ Laravel-admin 资源精选列表。
 * [官方](#官方)
 * [扩展包](#扩展包)
     * [工具类扩展包](#工具类扩展包)
+    * [视图类扩展包](#视图类扩展包)
     * [字段类扩展包](#字段类扩展包)
     * [网格类扩展包](#网格类扩展包)
     * [命令类扩展包](#命令类扩展包)
@@ -45,6 +46,10 @@ Laravel-admin 资源精选列表。
 * [phpinfo](https://github.com/laravel-admin-extensions/phpinfo) - phpinfo 信息查看工具
 * [translation](https://github.com/laravel-admin-extensions/translation)
 * [messages](https://github.com/laravel-admin-extensions/messages)
+
+### 视图类扩展包
+
+* [chartjs](https://github.com/laravel-admin-extensions/chartjs) - Chartjs 图表
 
 ### 字段类扩展包
 
@@ -91,7 +96,7 @@ Laravel-admin 资源精选列表。
 
 - [ ] 微信公众号管理工具
 - [ ] 地图工具
-- [ ] 图表工具
+- [x] 图表工具
 - [ ] 多后台
 - [ ] 系统监控工具
 - [ ] 日历工具

@@ -14,6 +14,7 @@ If you created or found something that make Laravel-admin more awesome, please s
 * [Essentials](#essentials)
 * [Extensions](#extensions)
     * [Tool](#tool)
+    * [View](#view)
     * [Field](#field)
     * [Grid](#grid)
     * [Command](#command)
@@ -47,6 +48,11 @@ If you created or found something that make Laravel-admin more awesome, please s
 * [phpinfo](https://github.com/laravel-admin-extensions/phpinfo) - Outputs information about PHP's configuration in laravel-admin
 * [translation](https://github.com/laravel-admin-extensions/translation)
 * [messages](https://github.com/laravel-admin-extensions/messages)
+
+
+### View
+
+* [chartjs](https://github.com/laravel-admin-extensions/chartjs) - Use Chartjs in laravel-admin
 
 ### Field
 
@@ -92,7 +98,7 @@ Several ideas or thoughts that can make Laravel-admin more awesome, but for some
 
 - [ ] Manager tool of WeChat Official Accounts
 - [ ] Map tool
-- [ ] Charts tool
+- [x] Charts tool
 - [ ] MultiAdmin
 - [ ] Monitor tool
 - [ ] Calendar tool
