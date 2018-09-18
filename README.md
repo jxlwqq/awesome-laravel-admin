@@ -66,7 +66,7 @@ If you created or found something that make Laravel-admin more awesome, please s
    * [json-editor](https://github.com/laravel-admin-extensions/json-editor) - JSON Editor for Laravel-admin
    
 * WYSIWYG Editor
-   * [simplemde](https://github.com/laravel-admin-extensions/simplemde) - Super Simple WYSIWYG editor
+   * [summernote](https://github.com/laravel-admin-extensions/summernote) - Super Simple WYSIWYG editor
    * [wangEditor](https://github.com/laravel-admin-extensions/wangEditor) - A lightweight WYSIWYG editor
    * [simplemde](https://github.com/laravel-admin-extensions/simplemde) - Markdown Editor
    

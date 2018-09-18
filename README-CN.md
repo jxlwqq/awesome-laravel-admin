@@ -63,7 +63,7 @@ Laravel-admin 资源精选列表。
    * [json-editor](https://github.com/laravel-admin-extensions/json-editor) - JSON 数据编辑器
    
 * 富文本编辑器
-   * [simplemde](https://github.com/laravel-admin-extensions/simplemde) - Summernote 富文本编辑器
+   * [summernote](https://github.com/laravel-admin-extensions/summernote) - Summernote 富文本编辑器
    * [wangEditor](https://github.com/laravel-admin-extensions/wangEditor) - wangEditor 富文本编辑器
    * [simplemde](https://github.com/laravel-admin-extensions/simplemde) - SimpleMDE Markdown 编辑器
    
