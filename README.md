@@ -103,6 +103,7 @@ Several ideas or thoughts that can make Laravel-admin more awesome, but for some
 - [ ] Monitor tool
 - [ ] Calendar tool
 - [ ] Deployment tool
+- [ ] Multi Step Form
 
 Add yours to the list, make a PR!
 
