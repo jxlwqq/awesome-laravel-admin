@@ -65,6 +65,10 @@ Laravel-admin 资源精选列表。
 * 富文本编辑器
    * [summernote](https://github.com/laravel-admin-extensions/summernote) - Summernote 富文本编辑器
    * [wangEditor](https://github.com/laravel-admin-extensions/wangEditor) - wangEditor 富文本编辑器
+   * [simditor](https://github.com/laravel-admin-extensions/simditor) - Simditor 富文本编辑器
+   * [ckeditor](https://github.com/laravel-admin-extensions/ckeditor) - CKEditor 4 富文本编辑器
+   
+* Markdown 编辑器
    * [simplemde](https://github.com/laravel-admin-extensions/simplemde) - SimpleMDE Markdown 编辑器
    
 * [china-distpicker](https://github.com/laravel-admin-extensions/china-distpicker) - 基于 Distpicker 的中国省市区三级联动选择组件

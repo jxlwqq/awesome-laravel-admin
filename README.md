@@ -68,7 +68,11 @@ If you created or found something that make Laravel-admin more awesome, please s
 * WYSIWYG Editor
    * [summernote](https://github.com/laravel-admin-extensions/summernote) - Super Simple WYSIWYG editor
    * [wangEditor](https://github.com/laravel-admin-extensions/wangEditor) - A lightweight WYSIWYG editor
-   * [simplemde](https://github.com/laravel-admin-extensions/simplemde) - Markdown Editor
+   * [simditor](https://github.com/laravel-admin-extensions/simditor) - An Easy and Fast WYSIWYG Editor
+   * [ckeditor](https://github.com/laravel-admin-extensions/ckeditor) - A battle-tested WYSIWYG HTML editor
+
+* Markdown Editor
+   * [simplemde](https://github.com/laravel-admin-extensions/simplemde) - A simple, beautiful, and embeddable JavaScript Markdown editor
    
 * [china-distpicker](https://github.com/laravel-admin-extensions/china-distpicker) - Distpicker extension for laravel-admin
 * [star-rating](https://github.com/laravel-admin-extensions/star-rating) - Star Rating extension for laravel-admin
