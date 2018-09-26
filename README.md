@@ -96,6 +96,7 @@ Add yours to the list, make a PR!
 Code, Notes and Snippets:
 
 * [Input verification on front and back ends](https://gist.github.com/jxlwqq/3687b809d83761db23bc437dc901c104)
+* [Best practice for API route](https://gist.github.com/jxlwqq/65897e4120ecbc5d7b0e5aaf6f89b2fc)
 
 Add yours to the list, make a PR!
 
