@@ -81,7 +81,7 @@ If you created or found something that make Laravel-admin more awesome, please s
 ### Grid
 
 * [grid-lightbox](https://github.com/laravel-admin-extensions/grid-lightbox) - Turn your grid into a lightbox & gallery
-* [sparkline](https://github.com/laravel-admin-extensions/sparkline) - generate sparkline charts
+* [sparkline](https://github.com/laravel-admin-extensions/sparkline) - Generate sparkline charts
 
 ### Command
 
@@ -94,6 +94,8 @@ Add yours to the list, make a PR!
 ## Gists
 
 Code, Notes and Snippets:
+
+* [Input verification on front and back ends](https://gist.github.com/jxlwqq/3687b809d83761db23bc437dc901c104)
 
 Add yours to the list, make a PR!
 

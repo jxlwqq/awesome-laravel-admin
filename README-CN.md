@@ -94,6 +94,9 @@ Laravel-admin 资源精选列表。
 
 存放在 GitHub Gist 上的代码片段：
 
+* [表单字段前后端同时验证](https://gist.github.com/jxlwqq/3687b809d83761db23bc437dc901c104)
+
+
 期待你的 PR。
 
 ## Idea
