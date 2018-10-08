@@ -78,6 +78,7 @@ If you created or found something that make Laravel-admin more awesome, please s
 * [star-rating](https://github.com/laravel-admin-extensions/star-rating) - Star Rating extension for laravel-admin
 * [daterangepicker](https://github.com/laravel-admin-extensions/daterangepicker) - Integrates daterangepicker into laravel-admin
 * [typeahead](https://github.com/laravel-admin-extensions/typeahead) - A fast and fully-featured autocomplete library
+* [cropper](https://github.com/laravel-admin-extensions/cropper) - A simple jQuery image cropping plugin
 
 ### Grid
 

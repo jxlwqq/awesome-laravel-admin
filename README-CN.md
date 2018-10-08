@@ -75,6 +75,7 @@ Laravel-admin 资源精选列表。
 * [star-rating](https://github.com/laravel-admin-extensions/star-rating) - 基于 BootStrapStarRating 的评分组件
 * [daterangepicker](https://github.com/laravel-admin-extensions/daterangepicker) - 基于 daterangepicker 的时间选择组件
 * [typeahead](https://github.com/laravel-admin-extensions/typeahead) - 输入框自动补全
+* [cropper](https://github.com/laravel-admin-extensions/cropper) - 图片裁剪组件
 
 
 ### 网格类扩展包
