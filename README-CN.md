@@ -46,6 +46,7 @@ Laravel-admin 资源精选列表。
 * [phpinfo](https://github.com/laravel-admin-extensions/phpinfo) - phpinfo 信息查看工具
 * [translation](https://github.com/laravel-admin-extensions/translation)
 * [messages](https://github.com/laravel-admin-extensions/messages)
+* [composer-viewer](https://github.com/laravel-admin-extensions/composer-viewer) - Composer 包查看工具
 
 ### 视图类扩展包
 
