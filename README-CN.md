@@ -55,12 +55,11 @@ Laravel-admin 资源精选列表。
 ### 字段类扩展包
 
 * 代码编辑器
-   * [code-mirror](https://github.com/laravel-admin-extensions/code-mirror) - 基于 CodeMirror 的语言编辑器基础包
-       * [clike-editor](https://github.com/laravel-admin-extensions/clike-editor) - 类 C 语言编辑器
-       * [python-editor](https://github.com/laravel-admin-extensions/python-editor) - Python 语言编辑器
-       * [php-editor](https://github.com/laravel-admin-extensions/php-editor) - PHP 语言编辑器
-       * [js-editor](https://github.com/laravel-admin-extensions/js-editor) - JavaScript 语言编辑器
-       * [css-editor](https://github.com/laravel-admin-extensions/css-editor) - CSS 语言编辑器
+   * [clike-editor](https://github.com/laravel-admin-extensions/clike-editor) - 类 C 语言编辑器
+   * [python-editor](https://github.com/laravel-admin-extensions/python-editor) - Python 语言编辑器
+   * [php-editor](https://github.com/laravel-admin-extensions/php-editor) - PHP 语言编辑器
+   * [js-editor](https://github.com/laravel-admin-extensions/js-editor) - JavaScript 语言编辑器
+   * [css-editor](https://github.com/laravel-admin-extensions/css-editor) - CSS 语言编辑器
    * [json-editor](https://github.com/laravel-admin-extensions/json-editor) - JSON 数据编辑器
    
 * 富文本编辑器
@@ -84,11 +83,6 @@ Laravel-admin 资源精选列表。
 * [grid-lightbox](https://github.com/laravel-admin-extensions/grid-lightbox) - 为 Grid 加上 lightBox 展示功能的组件
 * [sparkline](https://github.com/laravel-admin-extensions/sparkline) - jQuery Sparklines 迷你图表
 
-
-### 命令类扩展包
-
-期待你的 PR。
-
 ### 样式类扩展包
 
 * [material-ui](https://github.com/jxlwqq/material-ui) - 基于谷歌 Material Design 设计风格的 UI 扩展包
@@ -101,9 +95,6 @@ Laravel-admin 资源精选列表。
 * [表单字段并列排布](https://gist.github.com/jxlwqq/959d9310d2e78963c02b1f6151942ffb)
 * [API 路由的最佳实践](https://gist.github.com/jxlwqq/65897e4120ecbc5d7b0e5aaf6f89b2fc)
 * [基于当前年月自动创建上传目录](https://gist.github.com/jxlwqq/788470f94ae6cf8823a33fc12bfae94a)
-
-
-期待你的 PR。
 
 ## Idea
 
@@ -119,8 +110,6 @@ Laravel-admin 资源精选列表。
 - [ ] 分步表单
 - [ ] 二维码生成器
 
-期待你的 PR。
-
 ## 文章及教程
 
 [开发扩展教程](http://laravel-admin.org/docs/#/zh/extension-development)
@@ -130,8 +119,6 @@ Laravel-admin 资源精选列表。
 期待你的 PR。
 
 ## 其他
-
-其他杂项。
 
 期待你的 PR。
 
