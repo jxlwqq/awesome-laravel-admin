@@ -56,7 +56,7 @@ If you created or found something that make Laravel-admin more awesome, please s
 ### Field
 
 * Code Editor
-   * [clike-editor](https://github.com/laravel-admin-extensions/clike-editor) - Several c-lick language editor
+   * [clike-editor](https://github.com/laravel-admin-extensions/clike-editor) - C-lick language editor
    * [python-editor](https://github.com/laravel-admin-extensions/python-editor) - Python editor
    * [php-editor](https://github.com/laravel-admin-extensions/php-editor) - PHP editor
    * [js-editor](https://github.com/laravel-admin-extensions/js-editor) - JavaScript editor
