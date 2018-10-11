@@ -100,6 +100,8 @@ Laravel-admin 资源精选列表。
 * [表单字段前后端双重验证](https://gist.github.com/jxlwqq/3687b809d83761db23bc437dc901c104)
 * [表单字段并列排布](https://gist.github.com/jxlwqq/959d9310d2e78963c02b1f6151942ffb)
 * [API 路由的最佳实践](https://gist.github.com/jxlwqq/65897e4120ecbc5d7b0e5aaf6f89b2fc)
+* [基于当前年月自动创建上传目录](https://gist.github.com/jxlwqq/788470f94ae6cf8823a33fc12bfae94a)
+
 
 期待你的 PR。
 
