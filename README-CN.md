@@ -2,7 +2,7 @@
 
 Laravel-admin 资源精选列表。
 
-[English](README.md)
+[English](README.md) | [中文](README-CN.md)
 
 ## 贡献
 
