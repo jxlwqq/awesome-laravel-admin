@@ -17,7 +17,6 @@ If you created or found something that make Laravel-admin more awesome, please s
     * [View](#view)
     * [Field](#field)
     * [Grid](#grid)
-    * [Command](#command)
     * [UI](#ui)
 * [Gists](#gists)
 * [Ideas](#ideas)
