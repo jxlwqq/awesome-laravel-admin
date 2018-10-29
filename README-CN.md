@@ -76,6 +76,7 @@ Laravel-admin 资源精选列表。
 * [daterangepicker](https://github.com/laravel-admin-extensions/daterangepicker) - 基于 daterangepicker 的时间选择组件
 * [typeahead](https://github.com/laravel-admin-extensions/typeahead) - 输入框自动补全
 * [cropper](https://github.com/laravel-admin-extensions/cropper) - 图片裁剪组件
+* [large-file-upload](https://github.com/Dianwoung/large-file-upload) - 大文件上传工具
 
 
 ### 网格类扩展包

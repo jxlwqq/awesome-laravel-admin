@@ -78,6 +78,7 @@ If you created or found something that make Laravel-admin more awesome, please s
 * [daterangepicker](https://github.com/laravel-admin-extensions/daterangepicker) - Integrates daterangepicker into laravel-admin
 * [typeahead](https://github.com/laravel-admin-extensions/typeahead) - A fast and fully-featured autocomplete library
 * [cropper](https://github.com/laravel-admin-extensions/cropper) - A simple jQuery image cropping plugin
+* [large-file-upload](https://github.com/Dianwoung/large-file-upload) - Upload big files for Laravel-admin
 
 ### Grid
 
