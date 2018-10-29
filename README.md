@@ -56,23 +56,24 @@ If you created or found something that make Laravel-admin more awesome, please s
 
 ### Field
 
-* Code Editor
-   * [clike-editor](https://github.com/laravel-admin-extensions/clike-editor) - C-lick language editor
-   * [python-editor](https://github.com/laravel-admin-extensions/python-editor) - Python editor
-   * [php-editor](https://github.com/laravel-admin-extensions/php-editor) - PHP editor
-   * [js-editor](https://github.com/laravel-admin-extensions/js-editor) - JavaScript editor
-   * [css-editor](https://github.com/laravel-admin-extensions/css-editor) - CSS editor
-   * [json-editor](https://github.com/laravel-admin-extensions/json-editor) - JSON Editor for Laravel-admin
-   
-* WYSIWYG Editor
-   * [summernote](https://github.com/laravel-admin-extensions/summernote) - Super Simple WYSIWYG editor
-   * [wangEditor](https://github.com/laravel-admin-extensions/wangEditor) - A lightweight WYSIWYG editor
-   * [simditor](https://github.com/laravel-admin-extensions/simditor) - An Easy and Fast WYSIWYG Editor
-   * [ckeditor](https://github.com/laravel-admin-extensions/ckeditor) - A battle-tested WYSIWYG HTML editor
+#### Code Editor
+* [clike-editor](https://github.com/laravel-admin-extensions/clike-editor) - C-lick language editor
+* [python-editor](https://github.com/laravel-admin-extensions/python-editor) - Python editor
+* [php-editor](https://github.com/laravel-admin-extensions/php-editor) - PHP editor
+* [js-editor](https://github.com/laravel-admin-extensions/js-editor) - JavaScript editor
+* [css-editor](https://github.com/laravel-admin-extensions/css-editor) - CSS editor
+* [json-editor](https://github.com/laravel-admin-extensions/json-editor) - JSON Editor for Laravel-admin
 
-* Markdown Editor
-   * [simplemde](https://github.com/laravel-admin-extensions/simplemde) - A simple, beautiful, and embeddable JavaScript Markdown editor
-   
+#### WYSIWYG Editor
+* [summernote](https://github.com/laravel-admin-extensions/summernote) - Super Simple WYSIWYG editor
+* [wangEditor](https://github.com/laravel-admin-extensions/wangEditor) - A lightweight WYSIWYG editor
+* [simditor](https://github.com/laravel-admin-extensions/simditor) - An Easy and Fast WYSIWYG Editor
+* [ckeditor](https://github.com/laravel-admin-extensions/ckeditor) - A battle-tested WYSIWYG HTML editor
+
+#### Markdown Editor
+* [simplemde](https://github.com/laravel-admin-extensions/simplemde) - A simple, beautiful, and embeddable JavaScript Markdown editor
+
+#### Others 
 * [china-distpicker](https://github.com/laravel-admin-extensions/china-distpicker) - Distpicker extension for laravel-admin
 * [star-rating](https://github.com/laravel-admin-extensions/star-rating) - Star Rating extension for laravel-admin
 * [daterangepicker](https://github.com/laravel-admin-extensions/daterangepicker) - Integrates daterangepicker into laravel-admin

@@ -54,30 +54,30 @@ Laravel-admin 资源精选列表。
 
 ### 字段类扩展包
 
-* 代码编辑器
-   * [clike-editor](https://github.com/laravel-admin-extensions/clike-editor) - 类 C 语言编辑器
-   * [python-editor](https://github.com/laravel-admin-extensions/python-editor) - Python 语言编辑器
-   * [php-editor](https://github.com/laravel-admin-extensions/php-editor) - PHP 语言编辑器
-   * [js-editor](https://github.com/laravel-admin-extensions/js-editor) - JavaScript 语言编辑器
-   * [css-editor](https://github.com/laravel-admin-extensions/css-editor) - CSS 语言编辑器
-   * [json-editor](https://github.com/laravel-admin-extensions/json-editor) - JSON 数据编辑器
+#### 代码编辑器
+* [clike-editor](https://github.com/laravel-admin-extensions/clike-editor) - 类 C 语言编辑器
+* [python-editor](https://github.com/laravel-admin-extensions/python-editor) - Python 语言编辑器
+* [php-editor](https://github.com/laravel-admin-extensions/php-editor) - PHP 语言编辑器
+* [js-editor](https://github.com/laravel-admin-extensions/js-editor) - JavaScript 语言编辑器
+* [css-editor](https://github.com/laravel-admin-extensions/css-editor) - CSS 语言编辑器
+* [json-editor](https://github.com/laravel-admin-extensions/json-editor) - JSON 数据编辑器
+
+#### 富文本编辑器
+* [summernote](https://github.com/laravel-admin-extensions/summernote) - Summernote 富文本编辑器
+* [wangEditor](https://github.com/laravel-admin-extensions/wangEditor) - wangEditor 富文本编辑器
+* [simditor](https://github.com/laravel-admin-extensions/simditor) - Simditor 富文本编辑器
+* [ckeditor](https://github.com/laravel-admin-extensions/ckeditor) - CKEditor 4 富文本编辑器
    
-* 富文本编辑器
-   * [summernote](https://github.com/laravel-admin-extensions/summernote) - Summernote 富文本编辑器
-   * [wangEditor](https://github.com/laravel-admin-extensions/wangEditor) - wangEditor 富文本编辑器
-   * [simditor](https://github.com/laravel-admin-extensions/simditor) - Simditor 富文本编辑器
-   * [ckeditor](https://github.com/laravel-admin-extensions/ckeditor) - CKEditor 4 富文本编辑器
-   
-* Markdown 编辑器
-   * [simplemde](https://github.com/laravel-admin-extensions/simplemde) - SimpleMDE Markdown 编辑器
-   
+#### Markdown 编辑器
+* [simplemde](https://github.com/laravel-admin-extensions/simplemde) - SimpleMDE Markdown 编辑器
+
+#### 其他
 * [china-distpicker](https://github.com/laravel-admin-extensions/china-distpicker) - 基于 Distpicker 的中国省市区三级联动选择组件
 * [star-rating](https://github.com/laravel-admin-extensions/star-rating) - 基于 BootStrapStarRating 的评分组件
 * [daterangepicker](https://github.com/laravel-admin-extensions/daterangepicker) - 基于 daterangepicker 的时间选择组件
 * [typeahead](https://github.com/laravel-admin-extensions/typeahead) - 输入框自动补全
 * [cropper](https://github.com/laravel-admin-extensions/cropper) - 图片裁剪组件
 * [large-file-upload](https://github.com/Dianwoung/large-file-upload) - 大文件上传工具
-
 
 ### 网格类扩展包
 
