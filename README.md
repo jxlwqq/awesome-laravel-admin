@@ -69,6 +69,7 @@ If you created or found something that make Laravel-admin more awesome, please s
 * [wangEditor](https://github.com/laravel-admin-extensions/wangEditor) - A lightweight WYSIWYG editor
 * [simditor](https://github.com/laravel-admin-extensions/simditor) - An Easy and Fast WYSIWYG Editor
 * [ckeditor](https://github.com/laravel-admin-extensions/ckeditor) - A battle-tested WYSIWYG HTML editor
+* [UEditor](https://github.com/laravel-admin-extensions/UEditor) - A WYSIWYG editor by Baidu
 
 #### Markdown Editor
 * [simplemde](https://github.com/laravel-admin-extensions/simplemde) - A simple, beautiful, and embeddable JavaScript Markdown editor
@@ -79,7 +80,7 @@ If you created or found something that make Laravel-admin more awesome, please s
 * [daterangepicker](https://github.com/laravel-admin-extensions/daterangepicker) - Integrates daterangepicker into laravel-admin
 * [typeahead](https://github.com/laravel-admin-extensions/typeahead) - A fast and fully-featured autocomplete library
 * [cropper](https://github.com/laravel-admin-extensions/cropper) - A simple jQuery image cropping plugin
-* [large-file-upload](https://github.com/Dianwoung/large-file-upload) - Upload big files for Laravel-admin
+* [large-file-upload](https://github.com/laravel-admin-extensions/large-file-upload) - Upload big files for Laravel-admin
 
 ### Grid
 

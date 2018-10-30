@@ -67,7 +67,8 @@ Laravel-admin 资源精选列表。
 * [wangEditor](https://github.com/laravel-admin-extensions/wangEditor) - wangEditor 富文本编辑器
 * [simditor](https://github.com/laravel-admin-extensions/simditor) - Simditor 富文本编辑器
 * [ckeditor](https://github.com/laravel-admin-extensions/ckeditor) - CKEditor 4 富文本编辑器
-   
+* [UEditor](https://github.com/laravel-admin-extensions/UEditor) - 百度 UEditor 富文本编辑器
+
 #### Markdown 编辑器
 * [simplemde](https://github.com/laravel-admin-extensions/simplemde) - SimpleMDE Markdown 编辑器
 
@@ -77,7 +78,7 @@ Laravel-admin 资源精选列表。
 * [daterangepicker](https://github.com/laravel-admin-extensions/daterangepicker) - 基于 daterangepicker 的时间选择组件
 * [typeahead](https://github.com/laravel-admin-extensions/typeahead) - 输入框自动补全
 * [cropper](https://github.com/laravel-admin-extensions/cropper) - 图片裁剪组件
-* [large-file-upload](https://github.com/Dianwoung/large-file-upload) - 大文件上传工具
+* [large-file-upload](https://github.com/laravel-admin-extensions/large-file-upload) - 大文件上传工具
 
 ### 网格类扩展包
 
