@@ -46,7 +46,8 @@ Laravel-admin 资源精选列表。
 * [translation](https://github.com/laravel-admin-extensions/translation)
 * [messages](https://github.com/laravel-admin-extensions/messages)
 * [composer-viewer](https://github.com/laravel-admin-extensions/composer-viewer) - Composer 包查看工具
-* [env-manager](https://github.com/laravel-admin-extensions/env-manager) - Env 环境变量管理工具                                                                       
+* [env-manager](https://github.com/laravel-admin-extensions/env-manager) - Env 环境变量管理工具
+* [id-validator](https://github.com/laravel-admin-extensions/id-validator) - 验证中国大陆居民身份证、港澳居民居住证以及台湾地区居民居住证                                              
 
 ### 视图类扩展包
 
