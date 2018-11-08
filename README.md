@@ -49,7 +49,8 @@ If you created or found something that make Laravel-admin more awesome, please s
 * [messages](https://github.com/laravel-admin-extensions/messages)
 * [composer-viewer](https://github.com/laravel-admin-extensions/composer-viewer) - A web interface of composer packages
 * [env-manager](https://github.com/laravel-admin-extensions/env-manager) - Env Manager for Laravel-admin   
-* [id-validator](https://github.com/laravel-admin-extensions/id-validator) - Chinese Mainland Personal ID Card Validation                                                               
+* [id-validator](https://github.com/laravel-admin-extensions/id-validator) - Chinese Mainland Personal ID Card Validation    
+* [file-browser](https://github.com/laravel-admin-extensions/file-browser) - A Simple File Browser Extension For Laravel-Admin                                                         
 
 ### View
 
