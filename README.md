@@ -88,6 +88,8 @@ If you created or found something that make Laravel-admin more awesome, please s
 
 * [grid-lightbox](https://github.com/laravel-admin-extensions/grid-lightbox) - Turn your grid into a lightbox & gallery
 * [sparkline](https://github.com/laravel-admin-extensions/sparkline) - Generate sparkline charts
+* [media-player](https://github.com/laravel-admin-extensions/media-player) - Play audio/videos in laravel-admin
+
 
 ### UI
 
