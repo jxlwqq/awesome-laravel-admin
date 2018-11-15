@@ -50,7 +50,8 @@ If you created or found something that make Laravel-admin more awesome, please s
 * [composer-viewer](https://github.com/laravel-admin-extensions/composer-viewer) - A web interface of composer packages
 * [env-manager](https://github.com/laravel-admin-extensions/env-manager) - Env Manager for Laravel-admin   
 * [id-validator](https://github.com/laravel-admin-extensions/id-validator) - Chinese Mainland Personal ID Card Validation    
-* [file-browser](https://github.com/laravel-admin-extensions/file-browser) - A Simple File Browser Extension For Laravel-Admin                                                         
+* [file-browser](https://github.com/laravel-admin-extensions/file-browser) - A Simple File Browser Extension For Laravel-Admin
+* [lock-screen](https://github.com/laravel-admin-extensions/lock-screen) - Add a lock screen page to laravel-admin                                                   
 
 ### View
 
