@@ -26,7 +26,7 @@ Laravel-admin 资源精选列表。
 ## 官方
 * [Laravel-admin 仓库](https://github.com/z-song/laravel-admin)
 * [Laravel-admin 官网](http://laravel-admin.org)
-* [Laravel-admin 文档](http://laravel-admin.org/docs)
+* [Laravel-admin 文档](https://laravel-admin.org/docs/zh)
 * [Laravel-admin 演示](http://demo.laravel-admin.org)
 
 ## 扩展包
