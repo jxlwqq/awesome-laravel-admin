@@ -73,6 +73,7 @@ If you created or found something that make Laravel-admin more awesome, please s
 * [simditor](https://github.com/laravel-admin-extensions/simditor) - An Easy and Fast WYSIWYG Editor
 * [ckeditor](https://github.com/laravel-admin-extensions/ckeditor) - A battle-tested WYSIWYG HTML editor
 * [UEditor](https://github.com/laravel-admin-extensions/UEditor) - A WYSIWYG editor by Baidu
+* [Quill](https://github.com/laravel-admin-extensions/quill) - A modern WYSIWYG editor built for compatibility and extensibility
 
 #### Markdown Editor
 * [simplemde](https://github.com/laravel-admin-extensions/simplemde) - A simple, beautiful, and embeddable JavaScript Markdown editor

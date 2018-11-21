@@ -71,6 +71,7 @@ Laravel-admin 资源精选列表。
 * [simditor](https://github.com/laravel-admin-extensions/simditor) - Simditor 富文本编辑器
 * [ckeditor](https://github.com/laravel-admin-extensions/ckeditor) - CKEditor 4 富文本编辑器
 * [UEditor](https://github.com/laravel-admin-extensions/UEditor) - 百度 UEditor 富文本编辑器
+* [Quill](https://github.com/laravel-admin-extensions/quill) - 为兼容性和可扩展性而构建的现代 WYSIWYG 编辑器
 
 #### Markdown 编辑器
 * [simplemde](https://github.com/laravel-admin-extensions/simplemde) - SimpleMDE Markdown 编辑器
