@@ -67,7 +67,8 @@ Laravel-admin 资源精选列表。
 
 #### 富文本编辑器
 * [summernote](https://github.com/laravel-admin-extensions/summernote) - Summernote 富文本编辑器
-* [wangEditor](https://github.com/laravel-admin-extensions/wangEditor) - wangEditor 富文本编辑器
+* [wangEditor](https://github.com/laravel-admin-extensions/wangEditor) - wangEditor 富文本编辑器 v3
+* [wangEditor2](https://github.com/laravel-admin-extensions/wangEditor2) - wangEditor 富文本编辑器 v2
 * [simditor](https://github.com/laravel-admin-extensions/simditor) - Simditor 富文本编辑器
 * [ckeditor](https://github.com/laravel-admin-extensions/ckeditor) - CKEditor 4 富文本编辑器
 * [UEditor](https://github.com/laravel-admin-extensions/UEditor) - 百度 UEditor 富文本编辑器
