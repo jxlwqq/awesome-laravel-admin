@@ -53,7 +53,7 @@ If you created or found something that make Laravel-admin more awesome, please s
 * [file-browser](https://github.com/laravel-admin-extensions/file-browser) - A Simple File Browser Extension For Laravel-Admin
 * [lock-screen](https://github.com/laravel-admin-extensions/lock-screen) - Add a lock screen page to laravel-admin
 * [auth-attempts](https://github.com/laravel-admin-extensions/auth-attempts) - Add captcha and login attempts for laravel-admin
-* * [alioss-form](https://github.com/airan587/alioss-form) - alioss-upload extension for laravel-admin
+* [airan587/alioss-form](https://github.com/airan587/alioss-form) - alioss-upload extension for laravel-admin
 
 ### View
 
@@ -88,6 +88,7 @@ If you created or found something that make Laravel-admin more awesome, please s
 * [typeahead](https://github.com/laravel-admin-extensions/typeahead) - A fast and fully-featured autocomplete library
 * [cropper](https://github.com/laravel-admin-extensions/cropper) - A simple jQuery image cropping plugin
 * [large-file-upload](https://github.com/laravel-admin-extensions/large-file-upload) - Upload big files for Laravel-admin
+* [bavix/laravel-admin-leaflet](https://github.com/bavix/laravel-admin-leaflet) - OpenStreetMap for laravel-admin
 
 ### Grid
 

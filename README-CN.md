@@ -51,7 +51,7 @@ Laravel-admin 资源精选列表。
 * [file-browser](https://github.com/laravel-admin-extensions/file-browser) - 一个简单的文件浏览扩展
 * [lock-screen](https://github.com/laravel-admin-extensions/lock-screen) - 后台锁屏  
 * [auth-attempts](https://github.com/laravel-admin-extensions/auth-attempts) - 登录添加图片验证码
-* [alioss-form](https://github.com/airan587/alioss-form) - 上传文件至阿里云对象存储OSS
+* [airan587/alioss-form](https://github.com/airan587/alioss-form) - 上传文件至阿里云对象存储OSS
 
 ### 视图类扩展包
 
@@ -86,6 +86,7 @@ Laravel-admin 资源精选列表。
 * [typeahead](https://github.com/laravel-admin-extensions/typeahead) - 输入框自动补全
 * [cropper](https://github.com/laravel-admin-extensions/cropper) - 图片裁剪组件
 * [large-file-upload](https://github.com/laravel-admin-extensions/large-file-upload) - 大文件上传工具
+* [bavix/laravel-admin-leaflet](https://github.com/bavix/laravel-admin-leaflet) - OpenStreetMap 组件
 
 ### 网格类扩展包
 
