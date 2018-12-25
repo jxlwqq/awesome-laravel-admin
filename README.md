@@ -49,10 +49,11 @@ If you created or found something that make Laravel-admin more awesome, please s
 * [messages](https://github.com/laravel-admin-extensions/messages)
 * [composer-viewer](https://github.com/laravel-admin-extensions/composer-viewer) - A web interface of composer packages
 * [env-manager](https://github.com/laravel-admin-extensions/env-manager) - Env Manager for Laravel-admin   
-* [id-validator](https://github.com/laravel-admin-extensions/id-validator) - Chinese Mainland Personal ID Card Validation    
+* [id-validator](https://github.com/laravel-admin-extensions/id-validator) - Chinese Mainland Personal ID Card Validation
 * [file-browser](https://github.com/laravel-admin-extensions/file-browser) - A Simple File Browser Extension For Laravel-Admin
-* [lock-screen](https://github.com/laravel-admin-extensions/lock-screen) - Add a lock screen page to laravel-admin          
-* [auth-attempts](https://github.com/laravel-admin-extensions/auth-attempts) - Add captcha and login attempts for laravel-admin                                                                                                       
+* [lock-screen](https://github.com/laravel-admin-extensions/lock-screen) - Add a lock screen page to laravel-admin
+* [auth-attempts](https://github.com/laravel-admin-extensions/auth-attempts) - Add captcha and login attempts for laravel-admin
+* * [alioss-form](https://github.com/airan587/alioss-form) - alioss-upload extension for laravel-admin
 
 ### View
 
