@@ -130,7 +130,7 @@ Several ideas or thoughts that can make Laravel-admin more awesome, but for some
 
 ## Videos
 
-Add yours to the list, make a PR!
+[Installation & Basic Setup (Chinese)](https://laravel-china.org/courses/laravel-package/quickly-build-management-background-encorelaravel-admin/2356)
 
 ## Others
 
