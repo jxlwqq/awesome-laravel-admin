@@ -87,6 +87,7 @@ Laravel-admin 资源精选列表。
 * [cropper](https://github.com/laravel-admin-extensions/cropper) - 图片裁剪组件
 * [large-file-upload](https://github.com/laravel-admin-extensions/large-file-upload) - 大文件上传工具
 * [bavix/laravel-admin-leaflet](https://github.com/bavix/laravel-admin-leaflet) - OpenStreetMap 组件
+* [latlong](https://github.com/laravel-admin-extensions/latlong) - 经纬度选择器
 
 ### 网格类扩展包
 

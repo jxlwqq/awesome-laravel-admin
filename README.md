@@ -89,6 +89,7 @@ If you created or found something that make Laravel-admin more awesome, please s
 * [cropper](https://github.com/laravel-admin-extensions/cropper) - A simple jQuery image cropping plugin
 * [large-file-upload](https://github.com/laravel-admin-extensions/large-file-upload) - Upload big files for Laravel-admin
 * [bavix/laravel-admin-leaflet](https://github.com/bavix/laravel-admin-leaflet) - OpenStreetMap for laravel-admin
+* [latlong](https://github.com/laravel-admin-extensions/latlong) - A latitude & longitude selector
 
 ### Grid
 
