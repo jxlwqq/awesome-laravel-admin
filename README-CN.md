@@ -129,6 +129,7 @@ Laravel-admin 资源精选列表。
 ## 视频
 
 * [快速搭建管理后台（基础安装）](https://laravel-china.org/courses/laravel-package/quickly-build-management-background-encorelaravel-admin/2356)
+* [快速搭建管理后台（权限管理）](https://laravel-china.org/courses/laravel-package/066-quickly-build-management-background-privileges-encorelaravel-admin/2949)
 
 ## 其他
 
