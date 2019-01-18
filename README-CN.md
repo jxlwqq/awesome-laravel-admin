@@ -47,9 +47,9 @@ Laravel-admin 资源精选列表。
 * [messages](https://github.com/laravel-admin-extensions/messages)
 * [composer-viewer](https://github.com/laravel-admin-extensions/composer-viewer) - Composer 包查看工具
 * [env-manager](https://github.com/laravel-admin-extensions/env-manager) - Env 环境变量管理工具
-* [id-validator](https://github.com/laravel-admin-extensions/id-validator) - 验证中国大陆居民身份证、港澳居民居住证以及台湾地区居民居住证  
+* [id-validator](https://github.com/laravel-admin-extensions/id-validator) - 验证中国大陆居民身份证、港澳居民居住证以及台湾地区居民居住证
 * [file-browser](https://github.com/laravel-admin-extensions/file-browser) - 一个简单的文件浏览扩展
-* [lock-screen](https://github.com/laravel-admin-extensions/lock-screen) - 后台锁屏  
+* [lock-screen](https://github.com/laravel-admin-extensions/lock-screen) - 后台锁屏
 * [auth-attempts](https://github.com/laravel-admin-extensions/auth-attempts) - 登录添加图片验证码
 * [airan587/alioss-form](https://github.com/airan587/alioss-form) - 上传文件至阿里云对象存储OSS
 
@@ -130,6 +130,7 @@ Laravel-admin 资源精选列表。
 
 * [快速搭建管理后台（基础安装）](https://laravel-china.org/courses/laravel-package/quickly-build-management-background-encorelaravel-admin/2356)
 * [快速搭建管理后台（权限管理）](https://laravel-china.org/courses/laravel-package/066-quickly-build-management-background-privileges-encorelaravel-admin/2949)
+* [快速搭建管理后台（使用插件）](https://laravel-china.org/courses/laravel-package/067-quickly-setting-up-management-background-using-plug-ins-encorelaravel-admin/2952)
 
 ## 其他
 
