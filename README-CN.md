@@ -124,7 +124,7 @@ Laravel-admin 资源精选列表。
 
 ## 文章及教程
 
-[开发扩展教程](http://laravel-admin.org/docs/#/zh/extension-development)
+[开发扩展教程](https://laravel-admin.org/docs/zh/extension-development)
 
 ## 视频
 
