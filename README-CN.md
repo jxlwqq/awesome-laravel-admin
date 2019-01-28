@@ -52,6 +52,7 @@ Laravel-admin 资源精选列表。
 * [lock-screen](https://github.com/laravel-admin-extensions/lock-screen) - 后台锁屏
 * [auth-attempts](https://github.com/laravel-admin-extensions/auth-attempts) - 登录添加图片验证码
 * [airan587/alioss-form](https://github.com/airan587/alioss-form) - 上传文件至阿里云对象存储OSS
+* [screenfull](https://github.com/laravel-admin-extensions/screenfull) - 全屏组件
 
 ### 视图类扩展包
 
