@@ -91,6 +91,7 @@ If you created or found something that make Laravel-admin more awesome, please s
 * [large-file-upload](https://github.com/laravel-admin-extensions/large-file-upload) - Upload big files for Laravel-admin
 * [bavix/laravel-admin-leaflet](https://github.com/bavix/laravel-admin-leaflet) - OpenStreetMap for laravel-admin
 * [latlong](https://github.com/laravel-admin-extensions/latlong) - A latitude & longitude selector
+* [tencent-map](https://github.com/laravel-admin-extensions/tencent-map) - Tencent Map with search
 
 ### Grid
 
