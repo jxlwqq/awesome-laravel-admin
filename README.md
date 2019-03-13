@@ -55,6 +55,7 @@ If you created or found something that make Laravel-admin more awesome, please s
 * [auth-attempts](https://github.com/laravel-admin-extensions/auth-attempts) - Add captcha and login attempts for laravel-admin
 * [airan587/alioss-form](https://github.com/airan587/alioss-form) - alioss-upload extension for laravel-admin
 * [screenfull](https://github.com/laravel-admin-extensions/screenfull) - Simple wrapper for cross-browser usage of the JavaScript Fullscreen API
+* [wechat](https://github.com/sfcity2018/laravel-admin-ext-wechat) - Manager tool of WeChat Official Accounts
 
 ### View
 
