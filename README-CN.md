@@ -79,6 +79,7 @@ Laravel-admin 资源精选列表。
 
 #### Markdown 编辑器
 * [simplemde](https://github.com/laravel-admin-extensions/simplemde) - SimpleMDE Markdown 编辑器
+* [EditorMD](https://github.com/ShareManT/laravel-admin-ext-editormd) - 开源在线 Markdown 编辑器
 
 #### 其他
 * [china-distpicker](https://github.com/laravel-admin-extensions/china-distpicker) - 基于 Distpicker 的中国省市区三级联动选择组件

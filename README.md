@@ -81,6 +81,7 @@ If you created or found something that make Laravel-admin more awesome, please s
 
 #### Markdown Editor
 * [simplemde](https://github.com/laravel-admin-extensions/simplemde) - A simple, beautiful, and embeddable JavaScript Markdown editor
+* [EditorMD](https://github.com/ShareManT/laravel-admin-ext-editormd) - The open source embeddable online markdown editor.
 
 #### Others
 * [china-distpicker](https://github.com/laravel-admin-extensions/china-distpicker) - Distpicker extension for laravel-admin
