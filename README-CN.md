@@ -54,6 +54,7 @@ Laravel-admin 资源精选列表。
 * [airan587/alioss-form](https://github.com/airan587/alioss-form) - 上传文件至阿里云对象存储OSS
 * [screenfull](https://github.com/laravel-admin-extensions/screenfull) - 全屏组件
 * [wechat](https://github.com/sfcity2018/laravel-admin-ext-wechat) - 微信公众号管理
+* [deploy](https://github.com/luischavez/laravel-admin-ext-deploy) - 部署管理
 
 ### 视图类扩展包
 
@@ -77,6 +78,7 @@ Laravel-admin 资源精选列表。
 * [ckeditor](https://github.com/laravel-admin-extensions/ckeditor) - CKEditor 4 富文本编辑器
 * [UEditor](https://github.com/laravel-admin-extensions/UEditor) - 百度 UEditor 富文本编辑器
 * [Quill](https://github.com/laravel-admin-extensions/quill) - 为兼容性和可扩展性而构建的现代 WYSIWYG 编辑器
+* [Neditor](https://github.com/ssiapp/laravel-admin-ext-neditor) - 基于 ueditor的更现代化的富文本编辑器
 
 #### Markdown 编辑器
 * [simplemde](https://github.com/laravel-admin-extensions/simplemde) - SimpleMDE Markdown 编辑器

@@ -56,6 +56,7 @@ If you created or found something that make Laravel-admin more awesome, please s
 * [airan587/alioss-form](https://github.com/airan587/alioss-form) - alioss-upload extension for laravel-admin
 * [screenfull](https://github.com/laravel-admin-extensions/screenfull) - Simple wrapper for cross-browser usage of the JavaScript Fullscreen API
 * [wechat](https://github.com/sfcity2018/laravel-admin-ext-wechat) - Manager tool of WeChat Official Accounts
+* [deploy](https://github.com/luischavez/laravel-admin-ext-deploy) - Deploy extension for laravel-admin
 
 ### View
 
@@ -79,6 +80,7 @@ If you created or found something that make Laravel-admin more awesome, please s
 * [ckeditor](https://github.com/laravel-admin-extensions/ckeditor) - A battle-tested WYSIWYG HTML editor
 * [UEditor](https://github.com/laravel-admin-extensions/UEditor) - A WYSIWYG editor by Baidu
 * [Quill](https://github.com/laravel-admin-extensions/quill) - A modern WYSIWYG editor built for compatibility and extensibility
+* [Neditor](https://github.com/ssiapp/laravel-admin-ext-neditor) - A modern WYSIWYG editor based on UEditor 
 
 #### Markdown Editor
 * [simplemde](https://github.com/laravel-admin-extensions/simplemde) - A simple, beautiful, and embeddable JavaScript Markdown editor
