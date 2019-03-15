@@ -55,6 +55,7 @@ Laravel-admin 资源精选列表。
 * [screenfull](https://github.com/laravel-admin-extensions/screenfull) - 全屏组件
 * [wechat](https://github.com/sfcity2018/laravel-admin-ext-wechat) - 微信公众号管理
 * [deploy](https://github.com/luischavez/laravel-admin-ext-deploy) - 部署管理
+* [data-dictionary](https://github.com/laravel-admin-extensions/data-dictionary) - 一个简单的Mysql数据字典工具，可以用来查看和导出表结构
 
 ### 视图类扩展包
 
