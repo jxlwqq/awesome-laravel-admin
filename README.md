@@ -62,6 +62,7 @@ If you created or found something that make Laravel-admin more awesome, please s
 ### View
 
 * [chartjs](https://github.com/laravel-admin-extensions/chartjs) - Use Chartjs in laravel-admin
+* [echarts](https://github.com/mwz747512353/laravelAdmin-echarts) - Use Echarts in laravel-admin
 
 ### Field
 
