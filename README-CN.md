@@ -16,6 +16,7 @@ Laravel-admin 资源精选列表。
     * [字段类扩展包](#字段类扩展包)
     * [网格类扩展包](#网格类扩展包)
     * [样式类扩展包](#样式类扩展包)
+    * [付费扩展包](#付费扩展包)
 * [代码片段](#代码片段)
 * [Idea](#idea)
 * [文章及教程](#文章及教程)
@@ -107,6 +108,12 @@ Laravel-admin 资源精选列表。
 ### 样式类扩展包
 
 * [material-ui](https://github.com/jxlwqq/material-ui) - 基于谷歌 Material Design 设计风格的 UI 扩展包
+
+### 付费扩展包
+
+* [Geetest验证码集成](https://laravel-admin.org/extensions/66) - ￥30
+* [数据库结构对比](https://laravel-admin.org/extensions/56) - ￥30
+* [多后台扩展](https://laravel-admin.org/extensions/14) - ￥100
 
 ## 代码片段
 
