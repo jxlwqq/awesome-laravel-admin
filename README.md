@@ -53,7 +53,7 @@ If you created or found something that make Laravel-admin more awesome, please s
 * [file-browser](https://github.com/laravel-admin-extensions/file-browser) - A Simple File Browser Extension For Laravel-Admin
 * [lock-screen](https://github.com/laravel-admin-extensions/lock-screen) - Add a lock screen page to laravel-admin
 * [auth-attempts](https://github.com/laravel-admin-extensions/auth-attempts) - Add captcha and login attempts for laravel-admin
-* [airan587/alioss-form](https://github.com/airan587/alioss-form) - alioss-upload extension for laravel-admin
+* [alioss-form](https://github.com/airan587/alioss-form) - alioss-upload extension for laravel-admin
 * [screenfull](https://github.com/laravel-admin-extensions/screenfull) - Simple wrapper for cross-browser usage of the JavaScript Fullscreen API
 * [wechat](https://github.com/sfcity2018/laravel-admin-ext-wechat) - Manager tool of WeChat Official Accounts
 * [deploy](https://github.com/luischavez/laravel-admin-ext-deploy) - Deploy extension for laravel-admin
@@ -96,10 +96,11 @@ If you created or found something that make Laravel-admin more awesome, please s
 * [typeahead](https://github.com/laravel-admin-extensions/typeahead) - A fast and fully-featured autocomplete library
 * [cropper](https://github.com/laravel-admin-extensions/cropper) - A simple jQuery image cropping plugin
 * [large-file-upload](https://github.com/laravel-admin-extensions/large-file-upload) - Upload big files for Laravel-admin
-* [bavix/laravel-admin-leaflet](https://github.com/bavix/laravel-admin-leaflet) - OpenStreetMap for laravel-admin
+* [leaflet](https://github.com/bavix/laravel-admin-leaflet) - OpenStreetMap for laravel-admin
 * [latlong](https://github.com/laravel-admin-extensions/latlong) - A latitude & longitude selector
 * [tencent-map](https://github.com/laravel-admin-extensions/tencent-map) - Tencent Map with search
 * [tagsinput](https://github.com/namet117/laravel-admin-tagsinput) - Integrates Bootstrap Tags Input into laravel-admin
+* [row-table](https://github.com/ichynul/row-table) - laravel-admin row-table
 
 ### Grid
 

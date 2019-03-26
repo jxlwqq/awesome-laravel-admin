@@ -52,12 +52,13 @@ Laravel-admin 资源精选列表。
 * [file-browser](https://github.com/laravel-admin-extensions/file-browser) - 一个简单的文件浏览扩展
 * [lock-screen](https://github.com/laravel-admin-extensions/lock-screen) - 后台锁屏
 * [auth-attempts](https://github.com/laravel-admin-extensions/auth-attempts) - 登录添加图片验证码
-* [airan587/alioss-form](https://github.com/airan587/alioss-form) - 上传文件至阿里云对象存储OSS
+* [alioss-form](https://github.com/airan587/alioss-form) - 上传文件至阿里云对象存储OSS
 * [screenfull](https://github.com/laravel-admin-extensions/screenfull) - 全屏组件
 * [wechat](https://github.com/sfcity2018/laravel-admin-ext-wechat) - 微信公众号管理
 * [deploy](https://github.com/luischavez/laravel-admin-ext-deploy) - 部署管理
 * [data-dictionary](https://github.com/laravel-admin-extensions/data-dictionary) - 一个简单的Mysql数据字典工具，可以用来查看和导出表结构
 * [iframe-tabs](https://github.com/ichynul/iframe-tabs) - 使用 iframe-tab 打开多页面
+* [row-table](https://github.com/ichynul/row-table) - table 组件，form里面使用 table
 
 ### 视图类扩展包
 
@@ -95,7 +96,7 @@ Laravel-admin 资源精选列表。
 * [typeahead](https://github.com/laravel-admin-extensions/typeahead) - 输入框自动补全
 * [cropper](https://github.com/laravel-admin-extensions/cropper) - 图片裁剪组件
 * [large-file-upload](https://github.com/laravel-admin-extensions/large-file-upload) - 大文件上传工具
-* [bavix/laravel-admin-leaflet](https://github.com/bavix/laravel-admin-leaflet) - OpenStreetMap 组件
+* [leaflet](https://github.com/bavix/laravel-admin-leaflet) - OpenStreetMap 组件
 * [latlong](https://github.com/laravel-admin-extensions/latlong) - 经纬度选择器
 * [tencent-map](https://github.com/laravel-admin-extensions/tencent-map) - 带搜索功能的腾讯地图组件
 * [tagsinput](https://github.com/namet117/laravel-admin-tagsinput) - 集成 bootstrap-tagsinput 的laravel-admin Form扩展
