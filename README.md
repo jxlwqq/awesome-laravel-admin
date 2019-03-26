@@ -99,6 +99,7 @@ If you created or found something that make Laravel-admin more awesome, please s
 * [bavix/laravel-admin-leaflet](https://github.com/bavix/laravel-admin-leaflet) - OpenStreetMap for laravel-admin
 * [latlong](https://github.com/laravel-admin-extensions/latlong) - A latitude & longitude selector
 * [tencent-map](https://github.com/laravel-admin-extensions/tencent-map) - Tencent Map with search
+* [tagsinput](https://github.com/namet117/laravel-admin-tagsinput) - Integrates Bootstrap Tags Input into laravel-admin
 
 ### Grid
 
