@@ -101,6 +101,7 @@ If you created or found something that make Laravel-admin more awesome, please s
 * [tencent-map](https://github.com/laravel-admin-extensions/tencent-map) - Tencent Map with search
 * [tagsinput](https://github.com/namet117/laravel-admin-tagsinput) - Integrates Bootstrap Tags Input into laravel-admin
 * [row-table](https://github.com/ichynul/row-table) - laravel-admin row-table
+* [select2](https://github.com/xiaohuilam/laravel-admin-select2) - Laravel-Admin select2
 
 ### Grid
 

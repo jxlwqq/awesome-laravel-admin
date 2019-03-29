@@ -99,7 +99,9 @@ Laravel-admin 资源精选列表。
 * [leaflet](https://github.com/bavix/laravel-admin-leaflet) - OpenStreetMap 组件
 * [latlong](https://github.com/laravel-admin-extensions/latlong) - 经纬度选择器
 * [tencent-map](https://github.com/laravel-admin-extensions/tencent-map) - 带搜索功能的腾讯地图组件
-* [tagsinput](https://github.com/namet117/laravel-admin-tagsinput) - 集成 bootstrap-tagsinput 的laravel-admin Form扩展
+* [tagsinput](https://github.com/namet117/laravel-admin-tagsinput) - 集成 bootstrap-tagsinput 的 laravel-admin Form 扩展
+* [row-table](https://github.com/ichynul/row-table) - laravel-admin table 组件
+* [select2](https://github.com/xiaohuilam/laravel-admin-select2) - Laravel-Admin select2 插件
 
 ### 网格类扩展包
 
