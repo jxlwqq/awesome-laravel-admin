@@ -39,6 +39,7 @@ If you created or found something that make Laravel-admin more awesome, please s
 * [config](https://github.com/laravel-admin-extensions/config) - Config manager for laravel-admin
 * [reporter](https://github.com/laravel-admin-extensions/reporter) - This tool stores the exception information into the database and provides a developer-friendly web interface to view the exception information.
 * [media-manager](https://github.com/laravel-admin-extensions/media-manager) - Provides a web interface to manage local files
+* [file-manager](https://github.com/laravel-admin-extensions/file-manager) -  File manager for Cloud Storage
 * [api-tester](https://github.com/laravel-admin-extensions/api-tester) - API tester for laravel-admin
 * [scheduling](https://github.com/laravel-admin-extensions/scheduling) - Scheduling task manager for laravel-admin
 * [redis-manager](https://github.com/laravel-admin-extensions/redis-manager) Redis manager for laravel-admin

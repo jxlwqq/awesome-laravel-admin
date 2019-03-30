@@ -38,6 +38,7 @@ Laravel-admin 资源精选列表。
 * [config](https://github.com/laravel-admin-extensions/config) - 配置管理工具
 * [reporter](https://github.com/laravel-admin-extensions/reporter) - 异常信息存储及查看工具
 * [media-manager](https://github.com/laravel-admin-extensions/media-manager) - 本地文件管理工具
+* [file-manager](https://github.com/laravel-admin-extensions/file-manager) -  云存储文件管理工具
 * [api-tester](https://github.com/laravel-admin-extensions/api-tester) - API 测试工具
 * [scheduling](https://github.com/laravel-admin-extensions/scheduling) - Laravel计划任务管理工具
 * [redis-manager](https://github.com/laravel-admin-extensions/redis-manager) Redis 管理工具
