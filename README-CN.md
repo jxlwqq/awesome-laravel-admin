@@ -13,6 +13,7 @@ Laravel-admin 资源精选列表。
 * [扩展包](#扩展包)
     * [工具类扩展包](#工具类扩展包)
     * [视图类扩展包](#视图类扩展包)
+    * [组件类扩展包](#组件类扩展包)
     * [字段类扩展包](#字段类扩展包)
     * [网格类扩展包](#网格类扩展包)
     * [样式类扩展包](#样式类扩展包)
@@ -65,6 +66,10 @@ Laravel-admin 资源精选列表。
 
 * [chartjs](https://github.com/laravel-admin-extensions/chartjs) - Chartjs 图表
 * [echarts](https://github.com/mwz747512353/laravelAdmin-echarts) - Echarts 图表
+
+### 组件类扩展包
+
+* [data-table](https://github.com/laravel-admin-extensions/data-table) - Data-table 前端组件
 
 ### 字段类扩展包
 

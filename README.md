@@ -15,6 +15,7 @@ If you created or found something that make Laravel-admin more awesome, please s
 * [Extensions](#extensions)
     * [Tool](#tool)
     * [View](#view)
+    * [Widget](#widget)
     * [Field](#field)
     * [Grid](#grid)
     * [UI](#ui)
@@ -65,6 +66,10 @@ If you created or found something that make Laravel-admin more awesome, please s
 
 * [chartjs](https://github.com/laravel-admin-extensions/chartjs) - Use Chartjs in laravel-admin
 * [echarts](https://github.com/mwz747512353/laravelAdmin-echarts) - Use Echarts in laravel-admin
+
+### Widget
+
+* [data-table](https://github.com/laravel-admin-extensions/data-table) - Add advanced interaction controls to your HTML tables the free & easy way
 
 ### Field
 
