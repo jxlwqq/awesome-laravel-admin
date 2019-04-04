@@ -108,6 +108,7 @@ Laravel-admin 资源精选列表。
 * [tagsinput](https://github.com/namet117/laravel-admin-tagsinput) - 集成 bootstrap-tagsinput 的 laravel-admin Form 扩展
 * [row-table](https://github.com/ichynul/row-table) - laravel-admin table 组件
 * [select2](https://github.com/xiaohuilam/laravel-admin-select2) - Laravel-Admin select2 插件
+* [select2-bootstrap-theme](https://github.com/xiaohuilam/laravel-admin-select2-bootstrap-theme) - select2-bootstrap-theme 样式
 
 ### 网格类扩展包
 
