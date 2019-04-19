@@ -61,6 +61,7 @@ Laravel-admin 资源精选列表。
 * [data-dictionary](https://github.com/laravel-admin-extensions/data-dictionary) - 一个简单的Mysql数据字典工具，可以用来查看和导出表结构
 * [iframe-tabs](https://github.com/ichynul/iframe-tabs) - 使用 iframe-tab 打开多页面
 * [nocaptcha](https://github.com/xiaohuilam/laravel-admin-nocaptcha) - laravel-admin 登陆集成 nocaptcha
+* [admin-config](https://github.com/laravel-admin-extensions/admin-config) - 基于laravel-admin的数据库配置管理工具，仅通过配置文件就可生成整个表单，支持使用tab页对配置项进行分组
 
 ### 视图类扩展包
 

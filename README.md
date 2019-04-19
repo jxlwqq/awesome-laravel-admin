@@ -62,6 +62,7 @@ If you created or found something that make Laravel-admin more awesome, please s
 * [data-dictionary](https://github.com/laravel-admin-extensions/data-dictionary) - A simple Mysql data dictionary tool that can be used to view and export table structures
 * [iframe-tabs](https://github.com/ichynul/iframe-tabs) - laravel-admin iframe-tabs
 * [nocaptcha](https://github.com/xiaohuilam/laravel-admin-nocaptcha) - nocaptcha implements for laravel-admin when login
+* [admin-config](https://github.com/laravel-admin-extensions/admin-config) - Manage your database configuration as profiles
 
 ### View
 
