@@ -63,6 +63,7 @@ If you created or found something that make Laravel-admin more awesome, please s
 * [iframe-tabs](https://github.com/ichynul/iframe-tabs) - laravel-admin iframe-tabs
 * [nocaptcha](https://github.com/xiaohuilam/laravel-admin-nocaptcha) - nocaptcha implements for laravel-admin when login
 * [login-geetest](https://github.com/xiaoxuan6/login-geetest) - geetest login captcha for laravel-admin
+* [login-captcha](https://github.com/xiaoxuan6/login-captcha) - laravel-admin login-captcha
 * [admin-config](https://github.com/laravel-admin-extensions/admin-config) - Manage your database configuration as profiles
 
 ### View
