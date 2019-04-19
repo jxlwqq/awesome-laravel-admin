@@ -109,6 +109,7 @@ Laravel-admin 资源精选列表。
 * [row-table](https://github.com/ichynul/row-table) - laravel-admin table 组件
 * [select2](https://github.com/xiaohuilam/laravel-admin-select2) - Laravel-Admin select2 插件
 * [select2-bootstrap-theme](https://github.com/xiaohuilam/laravel-admin-select2-bootstrap-theme) - select2-bootstrap-theme 样式
+* [select-tree](https://github.com/laravel-admin-extensions/select-tree) - 数据模型树 的 select 联动选择插件
 
 ### 网格类扩展包
 
