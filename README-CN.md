@@ -123,7 +123,7 @@ Laravel-admin 资源精选列表。
 ### 样式类扩展包
 
 * [material-ui](https://github.com/jxlwqq/material-ui) - 基于谷歌 Material Design 设计风格的 UI 扩展包
-* [adminlte3](https://github.com/pigzzz123/adminlte3) - AdminLTE3 extension for laravel-admin
+* [adminlte3](https://github.com/pigzzz123/adminlte3) - laravel-admin AdminLTE3 主题
 
 ### 付费扩展包
 
