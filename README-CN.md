@@ -131,6 +131,7 @@ Laravel-admin 资源精选列表。
 * [Geetest验证码集成](https://laravel-admin.org/extensions/66) - ￥30
 * [数据库结构对比](https://laravel-admin.org/extensions/56) - ￥30
 * [多后台扩展](https://laravel-admin.org/extensions/14) - ￥100
+* [注册扩展](https://laravel-admin.org/extensions/74) - ￥50
 
 ## 代码片段
 
