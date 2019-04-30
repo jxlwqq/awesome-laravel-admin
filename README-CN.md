@@ -64,6 +64,7 @@ Laravel-admin 资源精选列表。
 * [login-geetest](https://github.com/xiaoxuan6/login-geetest) - laravel-admin 登录添加geetest验证码
 * [login-captcha](https://github.com/xiaoxuan6/login-captcha) - laravel-admin 登录添加验证
 * [admin-config](https://github.com/laravel-admin-extensions/admin-config) - 基于laravel-admin的数据库配置管理工具，仅通过配置文件就可生成整个表单，支持使用tab页对配置项进行分组
+* [grid-exporter](https://github.com/xiaomlove/grid-exporter) - Grid 数据导出组件
 
 ### 视图类扩展包
 
