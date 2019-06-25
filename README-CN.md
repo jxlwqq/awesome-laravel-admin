@@ -120,6 +120,7 @@ Laravel-admin 资源精选列表。
 * [grid-lightbox](https://github.com/laravel-admin-extensions/grid-lightbox) - 为 Grid 加上 lightBox 展示功能的组件
 * [sparkline](https://github.com/laravel-admin-extensions/sparkline) - jQuery Sparklines 迷你图表
 * [media-player](https://github.com/laravel-admin-extensions/media-player) - 视频/音频播放器
+* [grid-sortable](https://github.com/laravel-admin-extensions/grid-sortable) - 通过拖动数据列表的行来进行排序
 
 ### 样式类扩展包
 
