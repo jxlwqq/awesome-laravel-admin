@@ -69,7 +69,7 @@ Laravel-admin 资源精选列表。
 ### 视图类扩展包
 
 * [chartjs](https://github.com/laravel-admin-extensions/chartjs) - Chartjs 图表
-* [echarts](https://github.com/mwz747512353/laravelAdmin-echarts) - Echarts 图表
+* [echarts](https://github.com/laravel-admin-extensions/echarts) - Echarts 图表
 
 ### 组件类扩展包
 
