@@ -95,6 +95,7 @@ Laravel-admin 资源精选列表。
 * [UEditor](https://github.com/laravel-admin-extensions/UEditor) - 百度 UEditor 富文本编辑器
 * [Quill](https://github.com/laravel-admin-extensions/quill) - 为兼容性和可扩展性而构建的现代 WYSIWYG 编辑器
 * [Neditor](https://github.com/ssiapp/laravel-admin-ext-neditor) - 基于 ueditor的更现代化的富文本编辑器
+* [Lodpod-editor](https://github.com/laravel-admin-extensions/lodpod-editor) - LodPod打印模板Web可视化编辑器扩展
 
 #### Markdown 编辑器
 * [simplemde](https://github.com/laravel-admin-extensions/simplemde) - SimpleMDE Markdown 编辑器
