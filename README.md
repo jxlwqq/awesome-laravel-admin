@@ -144,14 +144,14 @@ Code, Notes and Snippets:
 Several ideas or thoughts that can make Laravel-admin more awesome, but for some reason it's not implemented:
 
 - [ ] Manager tool of WeChat Official Accounts
-- [ ] Map tool
+- [x] Map tool
 - [x] Charts tool
-- [ ] MultiAdmin
+- [x] MultiAdmin
 - [ ] Monitor tool
 - [ ] Calendar tool
 - [ ] Deployment tool
-- [ ] Multi Step Form
-- [ ] QR Code Generator
+- [x] Multi Step Form
+- [x] QR Code Generator
 
 ## Articles and Tutorials
 
