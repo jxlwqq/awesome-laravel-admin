@@ -177,4 +177,4 @@ Laravel-admin 资源精选列表。
 
 正在使用 Laravel-admin 的项目或网站：
 
-* [华大科技](http://bgitechsolutions.com/)
+https://github.com/z-song/laravel-admin/issues/3043

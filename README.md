@@ -171,4 +171,4 @@ Add yours to the list, make a PR!
 
 Sites Running with Laravel-admin:
 
-Add yours to the list, make a PR!
+https://github.com/z-song/laravel-admin/issues/3043
