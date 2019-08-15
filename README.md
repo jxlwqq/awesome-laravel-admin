@@ -125,6 +125,7 @@ If you created or found something that make Laravel-admin more awesome, please s
 * [sparkline](https://github.com/laravel-admin-extensions/sparkline) - Generate sparkline charts
 * [media-player](https://github.com/laravel-admin-extensions/media-player) - Play audio/videos in laravel-admin
 * [grid-sortable](https://github.com/laravel-admin-extensions/grid-sortable) - This extension can help you sort by dragging the rows of the data list
+* [custom-actions-button](https://github.com/nim4n136/custom-actions-button) - Custom Actions Button
 
 ### UI
 
