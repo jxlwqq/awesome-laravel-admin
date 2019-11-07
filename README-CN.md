@@ -133,11 +133,13 @@ Laravel-admin 资源精选列表。
 * [adminlte3](https://github.com/pigzzz123/adminlte3) - laravel-admin AdminLTE3 主题
 
 ### 付费扩展包
-
-* [Geetest验证码集成](https://laravel-admin.org/extensions/66) - ￥30
-* [数据库结构对比](https://laravel-admin.org/extensions/56) - ￥30
 * [多后台扩展](https://laravel-admin.org/extensions/14) - ￥100
+* [数据库结构对比](https://laravel-admin.org/extensions/56) - ￥30
+* [Geetest验证码集成](https://laravel-admin.org/extensions/66) - ￥30
 * [注册扩展](https://laravel-admin.org/extensions/74) - ￥50
+* [在线命令行工具](https://laravel-admin.org/extensions/86) - ¥75
+* [PDF阅读器](https://laravel-admin.org/extensions/99) - ¥50
+* [个人免签支付](https://laravel-admin.org/extensions/100) - ¥200
 
 ## 代码片段
 
