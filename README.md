@@ -64,6 +64,7 @@ If you created or found something that make Laravel-admin more awesome, please s
 * [nocaptcha](https://github.com/xiaohuilam/laravel-admin-nocaptcha) - nocaptcha implements for laravel-admin when login
 * [login-geetest](https://github.com/xiaoxuan6/login-geetest) - geetest login captcha for laravel-admin
 * [login-captcha](https://github.com/xiaoxuan6/login-captcha) - laravel-admin login-captcha
+* [auth-captcha](https://github.com/asundust/auth-captcha) - Sliding captcha for laravel-admin auth
 * [sms-register](https://github.com/Hanson/laravel-admin-register) - laravel admin sms register
 * [admin-config](https://github.com/laravel-admin-extensions/admin-config) - Manage your database configuration as profiles
 * [grid-exporter](https://github.com/xiaomlove/grid-exporter) - export grid data for laravel-admin
