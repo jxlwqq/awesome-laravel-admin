@@ -122,6 +122,7 @@ If you created or found something that make Laravel-admin more awesome, please s
 * [select2](https://github.com/xiaohuilam/laravel-admin-select2) - Laravel-Admin select2
 * [select2-bootstrap-theme](https://github.com/xiaohuilam/laravel-admin-select2-bootstrap-theme) - select2-bootstrap-theme stylesheet extension
 * [select-tree](https://github.com/laravel-admin-extensions/select-tree) - select plugin for Model-tree
+* [FieldInteraction](https://github.com/zuweie/FieldInteraction) - Field Interaction in laravel-admin
 
 ### Grid
 

@@ -121,6 +121,7 @@ Laravel-admin 资源精选列表。
 * [select2](https://github.com/xiaohuilam/laravel-admin-select2) - Laravel-Admin select2 插件
 * [select2-bootstrap-theme](https://github.com/xiaohuilam/laravel-admin-select2-bootstrap-theme) - select2-bootstrap-theme 样式
 * [select-tree](https://github.com/laravel-admin-extensions/select-tree) - 数据模型树 的 select 联动选择插件
+* [FieldInteraction](https://github.com/zuweie/FieldInteraction) - Form组件间的互动
 
 ### 网格类扩展包
 
