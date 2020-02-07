@@ -56,6 +56,7 @@ Laravel-admin 资源精选列表。
 * [auth-attempts](https://github.com/laravel-admin-extensions/auth-attempts) - 登录添加图片验证码
 * [alioss-form](https://github.com/airan587/alioss-form) - 上传文件至阿里云对象存储OSS
 * [screenfull](https://github.com/laravel-admin-extensions/screenfull) - 全屏组件
+* [wechat](https://github.com/Hanson/laravel-admin-wechat) - 微信扩展、支持多公众号、多小程序、多微信支付的后台管理
 * [wechat](https://github.com/sfcity2018/laravel-admin-ext-wechat) - 微信公众号管理
 * [deploy](https://github.com/luischavez/laravel-admin-ext-deploy) - 部署管理
 * [data-dictionary](https://github.com/laravel-admin-extensions/data-dictionary) - 一个简单的Mysql数据字典工具，可以用来查看和导出表结构

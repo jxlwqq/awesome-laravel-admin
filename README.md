@@ -57,6 +57,7 @@ If you created or found something that make Laravel-admin more awesome, please s
 * [auth-attempts](https://github.com/laravel-admin-extensions/auth-attempts) - Add captcha and login attempts for laravel-admin
 * [alioss-form](https://github.com/airan587/alioss-form) - alioss-upload extension for laravel-admin
 * [screenfull](https://github.com/laravel-admin-extensions/screenfull) - Simple wrapper for cross-browser usage of the JavaScript Fullscreen API
+* [wechat](https://github.com/Hanson/laravel-admin-wechat) - Wechat Manager with EasyWeChat
 * [wechat](https://github.com/sfcity2018/laravel-admin-ext-wechat) - Manager tool of WeChat Official Accounts
 * [deploy](https://github.com/luischavez/laravel-admin-ext-deploy) - Deploy extension for laravel-admin
 * [data-dictionary](https://github.com/laravel-admin-extensions/data-dictionary) - A simple Mysql data dictionary tool that can be used to view and export table structures
