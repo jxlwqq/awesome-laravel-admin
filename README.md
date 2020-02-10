@@ -115,6 +115,7 @@ If you created or found something that make Laravel-admin more awesome, please s
 * [typeahead](https://github.com/laravel-admin-extensions/typeahead) - A fast and fully-featured autocomplete library
 * [cropper](https://github.com/laravel-admin-extensions/cropper) - A simple jQuery image cropping plugin
 * [large-file-upload](https://github.com/laravel-admin-extensions/large-file-upload) - Upload big files for Laravel-admin
+* [qiniu](https://github.com/Hanson/laravel-admin-qiniu) - Upload files using qiniu Storage
 * [leaflet](https://github.com/bavix/laravel-admin-leaflet) - OpenStreetMap for laravel-admin
 * [latlong](https://github.com/laravel-admin-extensions/latlong) - A latitude & longitude selector
 * [tencent-map](https://github.com/laravel-admin-extensions/tencent-map) - Tencent Map with search
