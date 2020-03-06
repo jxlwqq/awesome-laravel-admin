@@ -132,6 +132,7 @@ Laravel-admin 资源精选列表。
 * [media-player](https://github.com/laravel-admin-extensions/media-player) - 视频/音频播放器
 * [grid-sortable](https://github.com/laravel-admin-extensions/grid-sortable) - 通过拖动数据列表的行来进行排序
 * [custom-actions-button](https://github.com/nim4n136/custom-actions-button) - 定制操作按钮样式
+* [timestamp-between-filter](https://github.com/wuwx/laravel-admin-timestamp-between) - 起止时间段查询
 
 ### 样式类扩展包
 
