@@ -138,6 +138,7 @@ Laravel-admin 资源精选列表。
 
 * [material-ui](https://github.com/jxlwqq/material-ui) - 基于谷歌 Material Design 设计风格的 UI 扩展包
 * [adminlte3](https://github.com/pigzzz123/adminlte3) - laravel-admin AdminLTE3 主题
+* [rainbow](https://github.com/Hanson/rainbow) - 一款 laravel-admin 新皮肤
 
 ### 付费扩展包
 * [多后台扩展](https://laravel-admin.org/extensions/14) - ￥100

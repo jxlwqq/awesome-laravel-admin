@@ -139,6 +139,7 @@ If you created or found something that make Laravel-admin more awesome, please s
 
 * [material-ui](https://github.com/jxlwqq/material-ui) - Material-UI is a Material Design extension, using Bootstrap Material Design
 * [adminlte3](https://github.com/pigzzz123/adminlte3) - AdminLTE3 extension for laravel-admin
+* [rainbow](https://github.com/Hanson/rainbow) - A skin for laravel-admin
 
 ## Gists
 
