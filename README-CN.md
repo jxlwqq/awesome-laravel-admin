@@ -102,6 +102,7 @@ Laravel-admin 资源精选列表。
 * [Lodpod-editor](https://github.com/laravel-admin-extensions/lodpod-editor) - LodPod打印模板Web可视化编辑器扩展
 * [kindeditor](https://github.com/youyingxiang/kindeditor) - KindEditor 是一套开源的在线HTML编辑器
 * [CKEditor5](https://github.com/Ghost-die/ckeditor) - 具有模块化结构体系的 JavaScript 编辑器
+* [tinymce](https://github.com/super-eggs/tinymce) - 一款易用、且功能强大的所见即所得的富文本编辑器
 
 #### Markdown 编辑器
 * [simplemde](https://github.com/laravel-admin-extensions/simplemde) - SimpleMDE Markdown 编辑器

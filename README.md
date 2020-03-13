@@ -103,6 +103,7 @@ If you created or found something that make Laravel-admin more awesome, please s
 * [Lodpod-editor](https://github.com/laravel-admin-extensions/lodpod-editor) - Lodpod print template visual editor
 * [kindeditor](https://github.com/youyingxiang/kindeditor) - KindEditor is a lightweight, web based WYSIWYG HTML editor
 * [CKEditor5](https://github.com/Ghost-die/ckeditor) - Modern JavaScript rich text editor with a modular architecture
+* [tinymce](https://github.com/super-eggs/tinymce) - TinyMCE: The Most Advanced WYSIWYG HTML Editor
 
 #### Markdown Editor
 * [simplemde](https://github.com/laravel-admin-extensions/simplemde) - A simple, beautiful, and embeddable JavaScript Markdown editor
