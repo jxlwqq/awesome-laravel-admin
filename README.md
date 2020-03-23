@@ -135,6 +135,7 @@ If you created or found something that make Laravel-admin more awesome, please s
 * [grid-sortable](https://github.com/laravel-admin-extensions/grid-sortable) - This extension can help you sort by dragging the rows of the data list
 * [custom-actions-button](https://github.com/nim4n136/custom-actions-button) - Custom Actions Button
 * [timestamp-between-filter](https://github.com/wuwx/laravel-admin-timestamp-between) - Timestamp Between Filter
+* [column-relation](https://github.com/zhaiduting/column-relation) - column-relation extension for laravel-admin
 
 ### UI
 
