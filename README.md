@@ -76,6 +76,7 @@ If you created or found something that make Laravel-admin more awesome, please s
 
 * [chartjs](https://github.com/laravel-admin-extensions/chartjs) - Use Chartjs in laravel-admin
 * [echarts](https://github.com/laravel-admin-extensions/echarts) - Use Echarts in laravel-admin
+* [watermark](https://github.com/laravel-admin-extensions/watermark) - Add text watermark with canvas
 
 ### Widget
 
