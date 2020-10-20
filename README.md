@@ -173,9 +173,9 @@ Several ideas or thoughts that can make Laravel-admin more awesome, but for some
 
 ## Videos
 
-* [Installation & Basic Setup (Chinese)](https://laravel-china.org/courses/laravel-package/quickly-build-management-background-encorelaravel-admin/2356)
-* [Access Control & Permission Management (Chinese)](https://laravel-china.org/courses/laravel-package/066-quickly-build-management-background-privileges-encorelaravel-admin/2949)
-* [Use Extensions (Chinese)](https://laravel-china.org/courses/laravel-package/067-quickly-setting-up-management-background-using-plug-ins-encorelaravel-admin/2952)
+* [Installation & Basic Setup (Chinese)](https://learnku.com/courses/laravel-package/2019/quickly-build-management-background-encorelaravel-admin/2356)
+* [Access Control & Permission Management (Chinese)](https://learnku.com/courses/laravel-package/2019/066-quickly-build-management-background-privileges-encorelaravel-admin/2949)
+* [Use Extensions (Chinese)](https://learnku.com/courses/laravel-package/2019/067-quickly-setting-up-management-background-using-plug-ins-encorelaravel-admin/2952)
 
 ## Others
 
