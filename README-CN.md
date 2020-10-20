@@ -23,7 +23,8 @@ Laravel-admin 资源精选列表。
 * [文章及教程](#文章及教程)
 * [视频](#视频)
 * [其他](#其他)
-* [项目](#项目)
+* [网站](#网站)
+* [衍生项目](#衍生项目)
 
 ## 官方
 * [Laravel-admin 仓库](https://github.com/z-song/laravel-admin)
@@ -189,8 +190,12 @@ Laravel-admin 资源精选列表。
 
 期待你的 PR。
 
-## 项目
+## 网站
 
 正在使用 Laravel-admin 的项目或网站：
 
 https://github.com/z-song/laravel-admin/issues/3043
+
+## 衍生项目
+
+* [dcat-admin](https://github.com/jqhph/dcat-admin) 一个基于laravel-admin二次开发而成的后台系统构建工具。
