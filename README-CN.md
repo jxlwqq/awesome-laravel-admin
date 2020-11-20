@@ -71,6 +71,7 @@ Laravel-admin 资源精选列表。
 * [grid-exporter](https://github.com/xiaomlove/grid-exporter) - Grid 数据导出组件
 * [multi-language](https://github.com/laravel-admin-extensions/multi-language) - 多语言切换组件
 * [crontab](https://github.com/ArrowJustDoIt/crontab) - 定时任务扩展插件，通过此插件定时执行shell、sql以及访问指定链接
+* [payjs](https://github.com/dedemao/laravel-admin-payjs) - 适用于laravel admin的payjs支付插件
 
 ### 视图类扩展包
 

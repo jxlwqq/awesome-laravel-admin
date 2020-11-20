@@ -71,6 +71,7 @@ If you created or found something that make Laravel-admin more awesome, please s
 * [grid-exporter](https://github.com/xiaomlove/grid-exporter) - export grid data for laravel-admin
 * [multi-language](https://github.com/laravel-admin-extensions/multi-language) - laravel-admin Multi Language
 * [crontab](https://github.com/ArrowJustDoIt/crontab) - Crontab extension for laravel-admin
+* [payjs](https://github.com/dedemao/laravel-admin-payjs) - pay for laravel-admin
 
 ### View
 
