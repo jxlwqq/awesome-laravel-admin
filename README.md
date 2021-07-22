@@ -95,8 +95,9 @@ If you created or found something that make Laravel-admin more awesome, please s
 
 #### WYSIWYG Editor
 * [summernote](https://github.com/laravel-admin-extensions/summernote) - Super Simple WYSIWYG editor
-* [wangEditor](https://github.com/laravel-admin-extensions/wangEditor) - A lightweight WYSIWYG editor v3
-* [wangEditor2](https://github.com/laravel-admin-extensions/wangEditor2) - A lightweight WYSIWYG editor v2
+* [wangEditorV4](https://github.com/jonexyz/wang-editor-v4) - A lightweight WYSIWYG editor v4
+* [wangEditorV3](https://github.com/laravel-admin-extensions/wangEditor) - A lightweight WYSIWYG editor v3
+* [wangEditorV2](https://github.com/laravel-admin-extensions/wangEditor2) - A lightweight WYSIWYG editor v2
 * [simditor](https://github.com/laravel-admin-extensions/simditor) - An Easy and Fast WYSIWYG Editor
 * [ckeditor](https://github.com/laravel-admin-extensions/ckeditor) - A battle-tested WYSIWYG HTML editor
 * [UEditor](https://github.com/laravel-admin-extensions/UEditor) - A WYSIWYG editor by Baidu
